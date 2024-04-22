@@ -66,7 +66,6 @@ export default function Index() {
     <img src="https://i.ibb.co/Mg2n71t/logo.gif" alt="Logo" className="h-20 w-20 mr-2"/> {/* Logo Image */}
     <h1 className="text-3xl md:text-4xl font-bold tracking-tighter font-extrabold bg-gradient-to-r from-red-800 via-red-300 to-red-50 text-transparent bg-clip-text bg-300% animate-gradient">$Bewitched</h1>
   </Link>
-  <ThemeToggle />
 </nav>
 
 
