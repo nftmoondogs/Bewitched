@@ -22,7 +22,7 @@ const stackCards = [
 
     content: (
 <div>
-  <h3 className="text-lg text-center font-bold pb-8">Bewitched🩸</h3>
+  <h3 className="text-lg text-center font-bold pb-8">Hexed🩸</h3>
 
   <ul className="list-disc list-inside text-left">
 
@@ -105,7 +105,7 @@ export default function Index() {
 <div style={{ display: 'flex', justifyContent: 'center', gap: '20px' }}>
 <Link to="/" className="flex items-center space-x-2">
     <img src="https://i.ibb.co/Mg2n71t/logo.gif" alt="Logo" className="h-20 w-20 mr-2"/> {/* Logo Image */}
-    <h1 className="text-3xl md:text-4xl font-bold tracking-tighter font-extrabold bg-gradient-to-r from-red-800 via-red-300 to-red-50 text-transparent bg-clip-text bg-300% animate-gradient">$Bewitched</h1>
+    <h1 className="text-3xl md:text-4xl font-bold tracking-tighter font-extrabold bg-gradient-to-r from-red-800 via-red-300 to-red-50 text-transparent bg-clip-text bg-300% animate-gradient">$Hexed</h1>
   </Link>
   </div>
 <div style={{ display: 'flex', justifyContent: 'center', gap: '20px' }}>
@@ -113,7 +113,7 @@ export default function Index() {
 <h1 className="text-3xl md:text-4xl font-bold tracking-tighter text-slate-200">
             The{" "}
             <span className="font-extrabold bg-gradient-to-r from-red-800 via-red-300 to-red-50 text-transparent bg-clip-text bg-300% animate-gradient">
-            $Bewitched
+            $Hexed
             </span>{" "}
             Token PreSale is now live on {" "}
             <Link
@@ -140,7 +140,7 @@ export default function Index() {
 
           <div className="flex items-center justify-center  w-full ">
         <div className="flex flex-col items-center space-y-4 text-center p-4 md:w-1/2">
-        <TextGenerateEffect words={"Bring Thick Blood, Clot of a jeet, Silver Spoon and ask yourself,You Degenrative lil punk are you prepared to be Bewitched, to surrender your soul and your SOL to the Solana Most Evil sinister Charms? "} />
+        <TextGenerateEffect words={"Bring Thick Blood, Clot of a jeet, Silver Spoon and ask yourself,You Degenrative lil punk are you prepared to be Hexed, to surrender your soul and your SOL to the Solana Most Evil sinister Charms? "} />
      
         </div>
 
@@ -182,7 +182,7 @@ export default function Index() {
     <button className="p-[3px] relative">
         <div className="absolute inset-0 bg-gradient-to-r from-red-800 to-red-300 rounded-lg" />
         <div className="px-8 py-2  bg-black rounded-[6px]  relative group transition duration-200 text-white hover:bg-transparent">
-        <Link to="https://t.me/Bewitchedsol">
+        <Link to="https://t.me/bewitchedsol">
         Telegram
         </Link>
         </div>
