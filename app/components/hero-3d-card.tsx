@@ -12,7 +12,7 @@ export function Hero3DCard() {
           className="w-full mt-4"
         >
           <img
-            src="https://i.ibb.co/Mg2n71t/logo.gif"
+            src="https://i.ibb.co/WzgcYSg/logo5.gif"
             height="1000"
             width="1000"
             className="h-100 w-full object-cover rounded-xl group-hover/card:shadow-xl"
